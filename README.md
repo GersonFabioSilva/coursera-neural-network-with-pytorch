@@ -1,1 +1,2 @@
-# coursera-neural-network-with-pytorch
+# Coursera
+# Deep Neural Networks with PyTorch - IBM
